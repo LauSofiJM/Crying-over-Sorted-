@@ -2,7 +2,7 @@
 _There's a lot happening. It's surprising for me to realize how many thing I've been learning this whole month, so I'm a newbie in many things; but fortunately, I wanna learn so much._
 ***
 ### Better Comments
-_This is the how I decided to use the extension.
+_This is the how I decided to use the extension._
 - #Info related to the program (grey)
 - #* Titles (green light)
 - #? Advices or clarifications (blue)
